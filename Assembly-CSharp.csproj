@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}</ProjectGuid>
+    <ProjectGuid>{EFA59A4F-27F0-F4B0-48A6-818D8BB84B85}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -48,61 +48,61 @@
      <Compile Include="Assets\Scripts\Satellite.cs" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARKit">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Subsystem.Registration">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARSubsystems">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARCore">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARFoundation.Editor">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARFoundation">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARCore.Editor">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.XR.ARCore.Editor.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.XR.ARCore.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.SpatialTracking">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARKit.Editor">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/mohammad.nayer@ibm.com/New Unity Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/mohammad.nayer@ibm.com/dev/SatARViewer/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2019.2.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -635,7 +635,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{79391AC5-8752-B4CC-F33F-BB9EB1094377}</Project>
+      <Project>{31066B5C-0D3C-1D9D-A40A-D44526F3C8F1}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
